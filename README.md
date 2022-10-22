@@ -7,3 +7,4 @@ Swift 로 백준 단계별로 풀어보기를 진행하고 있습니다.
 |2|[조건문](https://github.com/dongyoon1126/Study_algorithms/blob/main/BAEKJOON/%EC%A1%B0%EA%B1%B4%EB%AC%B8/%EC%A1%B0%EA%B1%B4%EB%AC%B8.md)|if 등의 조건문을 사용해 봅시다.|7|
 |3|[반복문](https://github.com/dongyoon1126/Study_algorithms/blob/main/BAEKJOON/%EB%B0%98%EB%B3%B5%EB%AC%B8/%EB%B0%98%EB%B3%B5%EB%AC%B8.md)|for, while 등의 반복문을 사용해 봅시다.|13|
 |4|[1차원 배열](https://github.com/dongyoon1126/Study_algorithms/blob/main/BAEKJOON/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4.md)|배열을 사용해봅시다.|6|
+|5|[함수]()|함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.|3|
