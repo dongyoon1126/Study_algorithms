@@ -9,4 +9,4 @@ Swift 로 백준 단계별로 풀어보기를 진행하고 있습니다.
 |4|[1차원 배열](https://github.com/dongyoon1126/Study_algorithms/blob/main/BAEKJOON/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4.md)|배열을 사용해봅시다.|6|
 |5|[2차원 배열(미완료)]()|배열 안에 배열이 있다면 어떨까요? 2차원 배열을 만들어 봅시다.|3|
 |6|[함수](https://github.com/drew105/Study_algorithms/blob/main/BAEKJOON/%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98.md)|함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.|3|
-|7|[문자열]()|문자열을 다루는 문제들을 해결해 봅시다.|10|
+|7|[문자열](https://github.com/drew105/Study_algorithms/blob/main/BAEKJOON/%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%97%B4.md)|문자열을 다루는 문제들을 해결해 봅시다.|10|
